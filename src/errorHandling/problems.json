@@ -1,0 +1,49 @@
+[
+  {
+    "code": 1001,
+    "status": 500,
+    "title": "Internal Server Error"
+  },
+  {
+    "code": 1002,
+    "status": 404,
+    "title": "Page not found",
+    "skipLogging": true
+  },
+  {
+    "code": 1003,
+    "status": 401,
+    "title": "Authorization required",
+    "skipLogging": true
+  },
+  {
+    "code": 1004,
+    "status": 401,
+    "title": "Authorization failed",
+    "skipLogging": true
+  },
+  {
+    "code": 1005,
+    "status": 429,
+    "title": "Too Many Requests",
+    "skipLogging": true
+  },
+  {
+    "code": 1006,
+    "status": 401,
+    "title": "Wrong Authentication Type",
+    "skipLogging": true
+  },
+  {
+    "code": 1007,
+    "status": 401,
+    "title": "Invalid Token",
+    "skipLogging": true
+  },
+  {
+    "code": 1008,
+    "status": 401,
+    "title": "Expired Token",
+    "skipLogging": true
+  }
+]
