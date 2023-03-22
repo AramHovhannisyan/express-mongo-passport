@@ -79,5 +79,4 @@ const getAll = async (req: Request, res: Response, next: NextFunction) => {
   }
 };
 
-
 export { register, login, logout, refresh, getAll };
